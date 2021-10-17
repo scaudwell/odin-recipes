@@ -1,2 +1,2 @@
-My first go at a website
+My first go at a website!
 # odin-recipes
